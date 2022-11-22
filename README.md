@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jelle
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science(SQL Python)
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me LinkedIn: Jelle Wierenga Discord:jellew16#8920
