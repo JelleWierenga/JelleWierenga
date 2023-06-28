@@ -26,7 +26,7 @@ I am a Data Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on LeetCode or codewars and watch tech videos on Youtube.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JelleWierenga-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jelle-wierenga-b9a739250/)
-[![Discord Badge](https://img.shields.io/badge/-JelleWierenga-blue?style=flat&logo=Discord&logoColor=white)](jellew16)
+[![Discord Badge](https://img.shields.io/badge/-jellew16-blue?style=flat&logo=Discord&logoColor=white)](jellew16)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JelleWierenga&theme=algolia)](https://git.io/streak-stats)
 
