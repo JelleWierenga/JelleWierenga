@@ -28,19 +28,6 @@ I am a Data Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JelleWierenga-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jelle-wierenga-b9a739250/)
 [![Discord Badge](https://img.shields.io/badge/-jellew16-blue?style=flat&logo=Discord&logoColor=white)](jellew16)
 
-## LearnDevelopmentByDoing
-
-I am the main and only contributor to the GitHub account [LearnDevelopmentByDoing](https://github.com/LearnDevelopmentByDoing), where we focus on creating Python projects and exercises to help others learn and practice their coding skills. Here's what you can expect from our collaboration:
-
-- :computer: We regularly post Python challenges and projects for learning and practice.
-
-- :bulb: I provide solution code for the challenges to help learners understand the concepts better.
-
-- :sparkles: Our goal is to make learning Python fun and engaging through hands-on coding exercises.
-
-Feel free to check out the [LearnDevelopmentByDoing](https://github.com/LearnDevelopmentByDoing) repository for a collection of Python projects and exercises.
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub-LearnDevelopmentByDoing-success?style=flat&logo=GitHub&logoColor=white)](https://github.com/LearnDevelopmentByDoing)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JelleWierenga&theme=algolia)](https://git.io/streak-stats)
