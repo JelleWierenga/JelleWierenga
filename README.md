@@ -17,9 +17,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a Data Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands.
+I am a computer forensics student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands.
 
 - :telescope: As a Data Science student, my primary focus lies in acquiring expertise in data analysis, machine learning, and statistical modeling, with a keen interest in collaborating with developers to integrate data-driven insights into web applications.
+
+- :telescope: As a computer forensics student, my goal is to learn the law, make sure company's and people follow them. if they dont and they steal or leak data. i will come after them with a dossier and a lawsuit
 
 - :seedling: Exploring Technical Content Writing.
 
