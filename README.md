@@ -33,6 +33,8 @@ I’m Jelle Wierenga, a **Digital forensisch student** from the Netherlands 🔍
 1. Become the master of all gods in python using tools like matplitlib, pandas, seabord, tensorflow, sklearn
 2. push code to github regurarly
 3. Make DFIR projects and maybe some cool ML or AI projects?👀
+4. Learn Java
+5. make my own version of Autopsy, wireshark and nmap
 
 
 ### 📫 Connect with me:
