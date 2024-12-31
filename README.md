@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I’m Jelle Wierenga, a **Forensic ICT student** from the Netherlands 🔍 with a passion for **cybersecurity, ethical hacking, OSINT**, and **data science**. I’m currently honing my skills in digital forensics, analyzing fraud cases, and investigating data breaches. 
+I’m Jelle Wierenga, a **Digital forensisch student** from the Netherlands 🔍 with a passion for **cybersecurity, ethical hacking, OSINT**, and **data science**. I’m currently honing my skills in digital forensics, analyzing fraud cases, and investigating data breaches. 
 
 - 🔬 As a Forensic ICT student, I’m learning how to detect, investigate, and prevent cybercrime, ensuring organizations and individuals adhere to legal standards.
 - 💻 I’m proficient in using tools like **Autopsy, Wireshark**, and **Python** to uncover hidden insights from digital evidence.
@@ -28,6 +28,12 @@ I’m Jelle Wierenga, a **Forensic ICT student** from the Netherlands 🔍 with 
 - **Cybersecurity:** Digital Forensics, OSINT, Penetration Testing
 - **Data Science:** Machine Learning, Data Visualization
 - **Version Control:** Git, GitHub
+
+## New years resolutions:
+1. Become the master of all gods in python using tools like matplitlib, pandas, seabord, tensorflow, sklearn
+2. push code to github regurarly
+3. Make DFIR projects and maybe some cool ML or AI projects?👀
+
 
 ### 📫 Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/-JelleWierenga-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jelle-wierenga-b9a739250/)
