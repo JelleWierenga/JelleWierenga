@@ -13,6 +13,10 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Project_Euler-Baby_Steps-brightgreen?style=for-the-badge" alt="Baby Steps Badge"/> <img src="https://img.shields.io/badge/Project_Euler-Journey_Begins-blue?style=for-the-badge" alt="Journey Begins Badge"/>
+  <img src="https://img.shields.io/badge/Project_Euler-Decathlete-gold?style=for-the-badge" alt="Decathlete Badge"/> 
+</div>
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
